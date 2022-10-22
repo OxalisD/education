@@ -12,4 +12,4 @@
 ---  
 Не очень люблю писать о себе.
 
-![](https://photos.app.goo.gl/dG1J9xY4rXfW3s7y7)
+![Моё фото](https://github.com/OxalisD/education/img/IMG_20221022_204742.jpg)
