@@ -13,3 +13,4 @@
 Не очень люблю писать о себе.
 
 ![Моё фото](https://github.com/OxalisD/education/blob/main/img/IMG_20221022_204742.jpg)
+
